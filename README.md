@@ -7,11 +7,11 @@
 
 <hr></hr>
 
-<h3 align="center">👋 أهلاً! أنا <strong>رانيا أحمد</strong></h3>
+<h3 align="center">👋 Hi there! I'm <strong>Rania Ahmed</strong></h3>
 <p align="center">
-باحثة ماجستير في إدارة الأعمال 🎓 <br>
-مهتمة حالياً بمجال <strong>AI Automation</strong> 🤖 <br>
-وببدأ أتعلم أزاي أستخدم الذكاء الاصطناعي في الأوتوميشن والتطبيقات التعليمية 💡
+🎓 Master's student in Business Administration <br>
+💡 Passionate about <strong>AI Automation</strong> and smart educational systems <br>
+🚀 Currently learning how to build automation workflows using AI tools and integrations
 </p>
 
 <div align="center">
